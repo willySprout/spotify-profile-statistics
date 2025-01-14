@@ -1,14 +1,10 @@
 import Homepage from "./homepage";
 
 
-export default function Home({
-  searchParams,
-}: {
-  searchParams: { [key: string]: string | string[] | undefined };
-}) {
+export default function Home() {
   return (
     <div>
-      <Homepage searchParams={searchParams} />
+      <Homepage />
     </div>
   );
 }

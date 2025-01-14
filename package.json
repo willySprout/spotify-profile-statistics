@@ -13,6 +13,7 @@
     "dotenv": "^16.4.7",
     "next": "14.2.10",
     "next-auth": "^4.24.11",
+    "querystring": "^0.2.1",
     "react": "^18",
     "react-dom": "^18",
     "spotify-web-api-node": "^5.0.2"
